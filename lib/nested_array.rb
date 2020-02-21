@@ -26,7 +26,7 @@ def assembled_matrix
     ORGANIC_PRODUCE
     ]
   
-  return produce_storage_room
+  produce_storage_room
   
 end
 
